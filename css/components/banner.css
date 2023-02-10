@@ -1,0 +1,25 @@
+/*modification banner*/
+  h4{
+   padding-right: 55px;
+  }
+
+#bsoft{
+  height: 43px;
+  margin-right: 390px;
+}
+
+.banner{
+  display: flex;
+  align-items:center;
+  justify-content: flex-end;
+  color: black;
+  margin-top: 25px;
+}
+
+.banner h4{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: white;
+}
+

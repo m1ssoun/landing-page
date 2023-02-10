@@ -1,0 +1,10 @@
+@import url("components/cards.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+
+
+/*modification content*/
+
+body{
+  background-image:url("../images/gradient.png") ;
+}
